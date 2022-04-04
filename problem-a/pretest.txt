@@ -1,15 +1,15 @@
-FAIL Documents/GitHub/info340b-sp22-problem-01-starter-angsoenW/problem-a/problem.spec.js
+ FAIL  Documents/GitHub/info340b-sp22-problem-01-starter-angsoenW/problem-a/problem.spec.js (8.72 s)
   Used test-driven development
     × Used Jest to pre-test code, saved in `pretest.txt` (1 ms)
   Source code is valid
     √ HTML validates without errors (4 ms)
-    √ CSS validates without errors (25 ms)
+    √ CSS validates without errors (66 ms)
   Has required HTML
     × Specifies charset (3 ms)
     × Includes page title (1 ms)
     × Includes author metadata (1 ms)
-    × Has a top-level heading
-    × Has an image
+    × Has a top-level heading (1 ms)
+    × Has an image (1 ms)
     × Includes a paragraph
     × Includes a hyperlink in the paragraph
     × Includes a list
@@ -17,9 +17,9 @@ FAIL Documents/GitHub/info340b-sp22-problem-01-starter-angsoenW/problem-a/proble
   Has required CSS
     × Links in local stylesheet
     × Body has default font size
-    × Body has default font family (1 ms)
-    × Paragraphs have specified line height
-    × Images have constrained height (1 ms)
+    × Body has default font family
+    × Paragraphs have specified line height (1 ms)
+    × Images have constrained height
     × Important list item is colored
 
   ● Used test-driven development › Used Jest to pre-test code, saved in `pretest.txt`
@@ -291,6 +291,5 @@ FAIL Documents/GitHub/info340b-sp22-problem-01-starter-angsoenW/problem-a/proble
 Test Suites: 1 failed, 1 total
 Tests:       16 failed, 2 passed, 18 total
 Snapshots:   0 total
-Time:        1.781 s, estimated 2 s
+Time:        8.975 s
 Ran all test suites matching /problem-a/i.
-
