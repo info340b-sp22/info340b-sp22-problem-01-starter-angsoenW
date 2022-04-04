@@ -1,6 +1,6 @@
- FAIL  Documents/GitHub/info340b-sp22-problem-01-starter-angsoenW/problem-a/problem.spec.js (8.72 s)
+  /FAIL problem-a/problem.spec.js/
   Used test-driven development
-    × Used Jest to pre-test code, saved in `pretest.txt` (1 ms)
+    ✓ Used Jest to pre-test code, saved in `pretest.txt` (1 ms)
   Source code is valid
     √ HTML validates without errors (4 ms)
     √ CSS validates without errors (66 ms)
